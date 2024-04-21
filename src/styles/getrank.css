@@ -1,0 +1,16 @@
+.rank-container {
+    margin-top: 20px;
+  }
+  
+  .rank-container p {
+    margin-bottom: 10px;
+  }
+  
+  .rank-container .message {
+    color: #28a745;
+  }
+  
+  .rank-container .error-message {
+    color: #dc3545;
+  }
+  
